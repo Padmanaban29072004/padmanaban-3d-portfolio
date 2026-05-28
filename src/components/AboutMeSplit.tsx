@@ -38,7 +38,7 @@ export default function AboutMeSplit() {
         {/* Right Side: Story (60%) */}
         <div className="lg:w-[60%] flex flex-col justify-center">
           <h3 className="text-3xl md:text-5xl font-bold text-[#ffffff] mb-8 tracking-tight">
-            Titles Don't Make Leaders. Action Do.
+            {"Titles Don't Make Leaders. Action Do."}
           </h3>
           <div className="space-y-6 text-[#999999] text-lg md:text-xl leading-relaxed text-justify">
             <p>
